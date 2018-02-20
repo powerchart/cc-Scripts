@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Connection">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-02-09 17:12:12 +0530</FirstRun>
+  <LastRun>2018-02-09 17:16:45 +0530</LastRun>
+  <TotalTimeOnSuccess>2.205000</TotalTimeOnSuccess>
+ </script>
+ <script name="Batch">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-02-09 14:30:56 +0530</FirstRun>
+  <LastRun>2018-02-16 16:03:27 +0530</LastRun>
+  <TotalTimeOnSuccess>176.248000</TotalTimeOnSuccess>
+ </script>
+</statistics>

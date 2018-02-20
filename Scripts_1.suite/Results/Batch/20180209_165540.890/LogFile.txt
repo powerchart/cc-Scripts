@@ -1,0 +1,4 @@
+﻿2018-02-09 16:55:40.890 +0530	START		Running Batch.script
+2018-02-09 16:55:40.959 +0530	Exception		Remote Connection Unavailable	1	on_batch	Batch.script
+2018-02-09 16:55:40.990 +0530	EndTestCase		(Duration:"0.08", Errors:"1", Exceptions:"1", StartTime:"2018-02-09 16:55:40 +0530", Successes:"0", TestCase:"Batch.script", Warnings:"0")
+2018-02-09 16:55:41.028 +0530	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Batch.script

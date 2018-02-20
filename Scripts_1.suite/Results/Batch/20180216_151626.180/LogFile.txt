@@ -1,0 +1,6 @@
+﻿2018-02-16 15:16:26.188 +0530	START		Running Batch.script
+2018-02-16 15:16:26.296 +0530	typetext		abcd	1	on_batch	Batch.script
+2018-02-16 15:16:36.348 +0530	typetext		exu	3	on_batch	Batch.script
+2018-02-16 15:16:46.490 +0530	capturescreen	Notepad.png		5	on_batch	Batch.script
+2018-02-16 15:16:46.514 +0530	EndTestCase		(Duration:"20.316", Errors:"0", Exceptions:"0", StartTime:"2018-02-16 15:16:26 +0530", Successes:"1", TestCase:"Batch.script", Warnings:"0")
+2018-02-16 15:16:46.550 +0530	SUCCESS		Execution Time 0:00:20 Batch.script

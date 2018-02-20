@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Connection">
+ <run>
+  <RunDate>2018-02-09 17:12:12.703 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.228000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180209_171212.703/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;connectionsallconnectioninfo&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 17:14:00.409 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.151000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_171400.409/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 17:14:24.960 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.180000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_171424.960/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 17:15:40.816 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1.676000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_171540.816/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 17:16:45.636 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.198000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_171645.636/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

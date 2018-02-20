@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-02-09 17:12:12.703 +0530,"Failure",0:00:00,1,0,0,"20180209_171212.703/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'connectionsallconnectioninfo'",0
+2018-02-09 17:14:00.409 +0530,"Success",0:00:00,0,0,0,"20180209_171400.409/LogFile.txt","","",1
+2018-02-09 17:14:24.960 +0530,"Success",0:00:00,0,0,0,"20180209_171424.960/LogFile.txt","","",1
+2018-02-09 17:15:40.816 +0530,"Success",0:00:01,0,0,0,"20180209_171540.816/LogFile.txt","","",1
+2018-02-09 17:16:45.636 +0530,"Success",0:00:00,0,0,0,"20180209_171645.636/LogFile.txt","","",1

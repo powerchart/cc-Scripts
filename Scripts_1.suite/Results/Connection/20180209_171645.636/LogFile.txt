@@ -1,0 +1,4 @@
+﻿2018-02-09 17:16:45.641 +0530	START		Running Connection.script
+2018-02-09 17:16:45.749 +0530	connect		10.171.95.209:(null)	1	on_connection	Connection.script
+2018-02-09 17:16:45.837 +0530	EndTestCase		(Duration:"0.188", Errors:"0", Exceptions:"0", StartTime:"2018-02-09 17:16:45 +0530", Successes:"1", TestCase:"Connection.script", Warnings:"0")
+2018-02-09 17:16:45.924 +0530	SUCCESS		Execution Time 0:00:00 Connection.script

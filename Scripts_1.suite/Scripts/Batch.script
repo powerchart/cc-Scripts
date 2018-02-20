@@ -1,0 +1,6 @@
+﻿wait 10
+TypeText "abcd"
+wait 10
+TypeText "exu"
+wait 10
+CaptureScreen (Name: "Notepad")
